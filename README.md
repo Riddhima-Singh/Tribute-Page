@@ -1,0 +1,1 @@
+It is a tribute web page dedicated to honoring a person, group, event, or cause. It typically features a brief introduction, a biography or history, a media gallery, quotes or testimonials, a timeline, and information. HTML and CSS have been used in this project.
